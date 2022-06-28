@@ -1,1 +1,1 @@
-# Rossman
+# Projeto de análise exploratória
