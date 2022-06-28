@@ -21,4 +21,4 @@ A Rossman é uma rede de drogarias que atua com várias lojas espalhadas na Euro
 ##### DATASET: https://www.kaggle.com/competitions/rossmann-store-sales/
 
 ## Metodologia para realizar o projeto:
-Image("/Users/joaofmoura/Desktop/Aulinhas/Projetos/rossmann-store-sales/img/crisp.png")
+!("/Users/joaofmoura/Desktop/Aulinhas/Projetos/rossmann-store-sales/img/crisp.png")
